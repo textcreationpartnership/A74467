@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for setling of the militia of the Commonwealth of England. Die Jovis, 11 Julii, 1650. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74467</idno>
+            <idno type="STC">Thomason E1061_8</idno>
+            <idno type="STC">ESTC R209234</idno>
+            <idno type="EEBO-CITATION">99868121</idno>
+            <idno type="PROQUEST">99868121</idno>
+            <idno type="VID">169057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74467)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for setling of the militia of the Commonwealth of England. Die Jovis, 11 Julii, 1650. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 931-940 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, Printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Signatures: 8Dp4s 8Ep2s.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169057:1" rendition="simple:additions"/>
+            <pb facs="tcp:169057:2"/>
+            <pb facs="tcp:169057:2" rendition="simple:additions"/>
+            <p>AN ACT For Setling of the MILITIA OF THE Commonwealth OF ENGLAND.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis, 11 Julii, 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>John Field,</hi> Printers to the Parliament of <hi>England.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:169057:3"/>
+            <pb n="931" facs="tcp:169057:3" rendition="simple:additions"/>
+            <head>AN ACT For Setling of the MILITIA OF The Commonwealth of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> finding it neceſſa<g ref="char:EOLhyphen"/>ry, That the Com<g ref="char:EOLhyphen"/>monwealth be put into a poſture of Defence, for the preſervation of the Peace and Liber<g ref="char:EOLhyphen"/>ties of the People, af<g ref="char:EOLhyphen"/>ter ſo much Blood and Treaſure ſpent in the obtaining thereof, a<g ref="char:EOLhyphen"/>gainſt the Endeavors, Conſpiracies and Practi<g ref="char:EOLhyphen"/>ſes of divers Parties and Intereſts, differing in themſelves, yet united under ſeveral ſpecious pre<g ref="char:EOLhyphen"/>tences, all tending to the utter overthrow of the Safety of the Nation: And although acknow<g ref="char:EOLhyphen"/>ledging (which they deſire with all thankfulneſs may ever be remembred) That Deſigns of this nature, Almighty God, by a high and merciful hand of Providence, hath uſually blaſted and brought to nought; yet judging it requiſite, That the Commonwealth be not wanting to it ſelf in the uſe of means tending to its own preſerva<g ref="char:EOLhyphen"/>tion and juſt Defence, and conceiving it their duty to make fitting proviſion accordingly, with a dependance upon the ſame Divine Goodneſs for
+<pb n="932" facs="tcp:169057:4"/>a Bleſsing upon their Endeavors, Hold fit to Or<g ref="char:EOLhyphen"/>dain and Enact, and be it Enacted and Ordained by this preſent Parliament, and by the Autho<g ref="char:EOLhyphen"/>rity thereof, That the Commiſsioners for the <hi>Militia</hi> in the ſeveral Counties and places of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> which now are, or hereafter ſhall be appointed by the Parliament or Councel of State, according to Order of Parliament in that behalf, in their ſeveral precincts and places, ſhall obſerve and put in execution theſe Inſtru<g ref="char:EOLhyphen"/>ctions following:</p>
+            <p>
+               <hi>FIrſt,</hi> The ſaid Commiſsioners, or any three or more of them, reſiding in the ſeveral coun<g ref="char:EOLhyphen"/>ties, cities or Towns, <hi>&amp;c.</hi> ſhall meet the firſt <hi>Tueſday</hi> in every Moneth in ſome convenient place within their reſpective counties, cities and towns, and ſo from time to time, or oftner if need ſhall ſo require, within their ſeveral limits, <hi>&amp;c.</hi> at ſuch time and place as ſhall be in that be<g ref="char:EOLhyphen"/>half appointed.</p>
+            <p>
+               <hi>Secondly,</hi> The ſaid Commiſsioners and every of them, who have not already taken it, are be<g ref="char:EOLhyphen"/>fore they act upon theſe Inſtructions, to Sub<g ref="char:EOLhyphen"/>ſcribe the late Engagement appointed by the Par<g ref="char:EOLhyphen"/>liament, <hi>To be true and faithful to the Commonwealth of England, as it is now Eſtabliſhed, without a King or Houſe of Lords,</hi> in the preſence of any three of the ſaid Commiſsioners; and then any two or more of them are to cauſe the ſame Engagement to be Subſcribed before them, or any two ſuch perſons as by the ſaid Commiſsioners or any two or more of them ſhall be appointed, by ſuch Colonels, Lieutenant Colonels, Majors and Captains, and by ſuch other Officers, Troopers and common Soldiers, whom they ſhall think fit
+<pb n="933" facs="tcp:169057:4"/>to be truſted with Commands or Arms; and then the ſaid Field-Officers and Captains which have not been already Commiſſionated and Approved of by the Councel of State, are to be recom<g ref="char:EOLhyphen"/>mended by the ſaid Commiſsioners, or any three or more of them, to the ſaid Councel, to have Commiſsions, if they ſhall approve of them; which being granted, Then any three or more of the ſaid Commiſsioners may grant Commiſ<g ref="char:EOLhyphen"/>ſions to the inferior Officers, which are firſt to be recommended to them by ſuch Field Officer or Officers (or where none ſuch are, by ſuch Ca<g ref="char:EOLhyphen"/>ptains reſpectively as are Commiſſionated as aforeſaid) for their approbation, and if they ap<g ref="char:EOLhyphen"/>prove of them, they are to grant them Commiſ<g ref="char:EOLhyphen"/>ſions accordingly. Provided, That the Councel of State, as they ſee occaſion, may alter or change the ſaid Commiſsioners; and alſo Colonels, Lieutenant Colonels, Majors, Captains, or other Officers, and put other fit perſons in their rooms.</p>
+            <p>
+               <hi>Thirdly,</hi> The ſaid Commiſſioners or any two of them, are by all good ways and means to in<g ref="char:EOLhyphen"/>form themſelves, and from time to time to take from others Informations, and Examinations upon Oath (which Oath they have hereby power to adminiſter) of all Conſpiracies, Deſigns, Pra<g ref="char:EOLhyphen"/>ctiſes, ſecret and ſuſpitious Meetings of diſ<g ref="char:EOLhyphen"/>affected perſons, whether expreſſed by words or actions, ſpoken, printed, preached, written or publiſhed whereſoever, againſt the Peace and Welfare of the Commonwealth, by ſecuring, diſ<g ref="char:EOLhyphen"/>perſing, or committing to priſon the parties whom they finde to be eſpecially active and dan<g ref="char:EOLhyphen"/>gerous, or to uſe any other lawful ways and means for the diſperſing or ſecuring of them, in
+<pb n="934" facs="tcp:169057:5"/>order to be brought to Iuſtice as they ſhall ſee cauſe.</p>
+            <p>
+               <hi>Fourthly,</hi> The ſaid Commiſsioners or any three or more of them, are authorized and required to diſarm and ſecure (by Impriſonment or other<g ref="char:EOLhyphen"/>wiſe) all Papiſts, and other ill-affected perſons that have of late appeared, or ſhall declare them<g ref="char:EOLhyphen"/>ſelves in their words or actions againſt this pre<g ref="char:EOLhyphen"/>ſent <hi>Parliament,</hi> or againſt the preſent Government Eſtabliſhed; or have or ſhall hold correſpondency with <hi>Charls Stuart,</hi> the Son of the late King, or any of his party, or with any other perſon or Na<g ref="char:EOLhyphen"/>tion, tending to the Diſturbance, Subverſion or Alteration of this preſent Government; or have or ſhall miniſter any Supplies to the Enemies of the Commonwealth; or raiſe, or endeavored the raiſing of any Tumults, Mutinies or Inſur<g ref="char:EOLhyphen"/>rections, and to cauſe them to be dealt with ac<g ref="char:EOLhyphen"/>cording to Law, and their ſeveral demerits.</p>
+            <p>
+               <hi>Fifthly,</hi> That any three or more of the Commiſ<g ref="char:EOLhyphen"/>ſioners ſhall have full Power and Authority to charge any perſon with Horſe and Arms, in the ſame county, ſhire, city or Town Corporate, where his, her or their uſual place of reſidence is or hath been, having reſpect unto, and not exceeding the limitations and proportions hereafter mention<g ref="char:EOLhyphen"/>ed; that is to ſay, No perſon ſhall be charged with Horſe and Arms, unleſs ſuch perſon have the yearly Revenue of Two hundred pounds <hi>per annum,</hi> or have a Perſonal Eſtate of Two thou<g ref="char:EOLhyphen"/>ſand pounds in Goods or Moneys, or an Eſtate equivalent thereunto, and ſo proportionably, as the Commiſsioners in their diſcretion ſhall ſee cauſe and think reaſonable; Nor ſhall any per<g ref="char:EOLhyphen"/>ſon be charged with a Dragoon-horſe and Arms,
+<pb n="935" facs="tcp:169057:5"/>unleſs ſuch perſon have the yearly Revenue of Two hundred marks <hi>per annum,</hi> or who ſhall be worth Two thouſand marks in moneys, or other Perſonal Eſtate, or an Eſtate equivalent: And the ſaid Commiſsioners are not to charge any perſon with finding of a whole Foot-Arms, that hath not a yearly Revenue of Twenty pounds <hi>per annum,</hi> or a Perſonal Eſtate of Two hundred pounds in Goods or Moneys; And after the aforeſaid Rates proportionably, for a greater or leſſer Revenue or Eſtate, it ſhall be lawful to and for the ſaid Commiſsioners or any three or more of them, to impoſe the finding and providing of Horſe and Arms as aforeſaid, by joyning two, three, or more perſons together in the charge, as to their judgements ſhall appear moſt conducible to the Service of the Commonwealth. Provided, That no perſon who hath not Ten pounds a year in Lands, Tenements or Hereditaments, Leaſe<g ref="char:EOLhyphen"/>hold or Copyhold, or a Perſonal Eſtate worth Two hundred pounds, ſhall be compellable to contribute in finding Foot-Arms as aforeſaid; And that no perſon who hath not One hundred pounds <hi>per annum</hi> in Lands, Tenements or He<g ref="char:EOLhyphen"/>reditaments, Leaſe-hold or Copyhold, ſhall be compellable to contribute in finding a Horſe with Arms, or a Dragoon: And the ſaid Commiſsio<g ref="char:EOLhyphen"/>ners or any three or more of them, have power to hear and examine Complaints upon Oath (which Oath they have hereby power to admini<g ref="char:EOLhyphen"/>ſter) and to give redreſs as there ſhall be cauſe.</p>
+            <p>
+               <hi>Sixthly,</hi> The ſaid Commiſsioners or any three or more of them, are to take care that ſuch Horſe and Arms as are ſo charged, and to be provided as aforeſaid (and all ſuch other Horſe and Arms as they ſhall hold fit to make uſe of for the ſervice
+<pb n="936" facs="tcp:169057:6"/>of the Commonwealth) upon all occaſions of Muſter and Service, and during the time of any Inſurrection or Invaſion in their reſpective counties, cities, <hi>&amp;c.</hi> be put into the hands of ſuch well-affected perſons, and fit for War, as the ſaid Commiſsioners or any three or more of them ſhall approve of; which perſon and perſons are hereby required to ſerve with ſuch Horſes and Arms accordingly; and that ſuch perſons be Liſted, Trained and Muſtered in ſeveral Troops and Companies, and formed into Regiments: And the ſaid Commiſſioners or any three of them, are hereby authorized and required to cauſe the ſaid Forces to be drawn out, and uſed for Sup<g ref="char:EOLhyphen"/>preſſing and Reſiſting all Invaſions, Inſurre<g ref="char:EOLhyphen"/>ctions and Rebellions in their ſeveral Precincts within this Commonwealth, and to bring to con<g ref="char:EOLhyphen"/>dign puniſhment the Enemies of the ſame; And ſhall for that purpoſe from time to time keep cor<g ref="char:EOLhyphen"/>reſpondency, as occaſion ſhall be, with the chief Commanders of the Parliaments other Forces in the reſpective counties, cities or towns adja<g ref="char:EOLhyphen"/>cent, and act and proceed further, as they ſhall from time to time receive Orders from the Par<g ref="char:EOLhyphen"/>liament, or Councel of State ſetled by their Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>
+               <hi>Seventhly,</hi> That the ſaid Commiſſioners or any three or more of them in their ſeveral counties, <hi>&amp;c.</hi> ſhall require and direct all perſons ſo charged with Horſe and Arms as aforeſaid, to allow Two ſhillings a day to the Troopers that ſerve with their Horſe and Arms, for the maintenance of the Man and Horſe, and Twelve pence a day to their Foot-Soldiers, for ſo many days as they ſhall be abſent from their Dwellings and Callings by occaſion of Muſter or Exerciſe; And for furniſh<g ref="char:EOLhyphen"/>ing
+<pb n="937" facs="tcp:169057:6"/>Drums, Colours, Trophees, Ammunition and other Emergencies, the ſaid Commiſsioners or any three or more of them, ſhall have power to lay a ſitting Rate upon their reſpective counties, not exceeding in one whole year the proportion of one Moneths Aſſeſſment in each county, after the Rate of Ninety thouſand pounds <hi>per Menſem,</hi> charged for pay of the Army; which Moneys are to be aſſeſſed, collected and paid, according to ſuch Inſtructions as ſhall be given from time to time by the Councel of State, unto the Officers by the ſaid Commiſſioners to be appointed, under the Penalties, and by the ways and means in the Acts preſcribed for the Ninety thouſand pounds <hi>per Menſem;</hi> And in caſe of ſudden Exigence for Reſiſting or Suppreſsing of Invaſion or Inſur<g ref="char:EOLhyphen"/>rection, whereby occaſion will be to draw out ſuch Soldiers into actual Service, The perſons ſo charged as aforeſaid, ſhall provide each their Soldier reſpectively, with pay in hand, not ex<g ref="char:EOLhyphen"/>ceeding one Moneths pay, as ſhall be in that be<g ref="char:EOLhyphen"/>half directed by the ſaid Commiſſioners, or any three or more of them: For repayment of which ſaid Moneys, and for ſatisfaction of the Com<g ref="char:EOLhyphen"/>manders and Officers for their pay during ſuch time, not exceeding one Moneth as aforeſaid, as they ſhall be with their Soldiers in ſuch ſaid actual Service, The Parliament doth hereby Declare, That proviſion ſhall be made for the ſame forth of the publique Treaſury, and like courſe taken for pay and encouragement both of Officers and Soldiers, if they ſhall be continued upon longer actual Service, as is provided for the Army Forces under the immediate conduct and command of the Lord General.</p>
+            <p>
+               <hi>Eighthly,</hi> The ſaid Commiſsioners or any three
+<pb n="938" facs="tcp:169057:7"/>of them, may charge Carts, Waggons, Wains and Horſes, for the carrying of Powder, Match, Bullet, and other Materials, allowing Two pence the mile outward onely to every ſuch Cart, Waggon and Wain ſo taken upon the marching of any Regiment, Company or Troop, upon oc<g ref="char:EOLhyphen"/>caſion of Invaſion, Inſurrection, <hi>&amp;c.</hi> and ſhall and may impriſon Mutiniers and diſordered per<g ref="char:EOLhyphen"/>ſons, and ſuch as do not their Duties as common Soldiers at the day of the Muſter and Training, ſhall and may be by them puniſhed for every ſuch Offence, Five ſhillings, or Twenty days Im<g ref="char:EOLhyphen"/>priſonment, without Bail or Mainprize; and when drawn out, and upon actual Service, occa<g ref="char:EOLhyphen"/>ſioned by any Inſurrection, or Rebellion, or In<g ref="char:EOLhyphen"/>vaſion, then to be ſubject during that time to the Rules, Orders and Inſtructions mentioned in the Lord Generals Inſtructions for Regulating his Army: And that the ſaid Commiſsioners or any three of them, ſhall have power to Fine ſuch perſons as ſhall refuſe, neglect or delay to ſend in their Horſe, Arms, Dragoons, Horſe and Arms, and Foot-Arms, with their Riders and Sol<g ref="char:EOLhyphen"/>diers, upon Summons, for not appearing at Mu<g ref="char:EOLhyphen"/>ſters and Training-days, the Fine not exceeding the ſum of Forty ſhillings for every ſuch offence; and to Fine parties for not appearing with their Horſe and Arms upon any Rebellion, Invaſion and Inſurrection, the ſame not exceeding Twen<g ref="char:EOLhyphen"/>ty pounds, and to be further puniſhed as the Parliament ſhall think fitting, by Sequeſtration or otherwiſe; And in caſe of refuſal of payment of the ſeveral Fines aforementioned, The ſaid Commiſsioners or any three or more of them, by Warrants under their Hands and Seals, are to cauſe the ſame to be levyed upon the Lands, Goods and Chattels of the party ſo offending,
+<pb n="939" facs="tcp:169057:7"/>having Ten days warning to pay in the ſaid Fine, before levy thereof be made; And ſhall and may Fine every Conſtable, or any other fit perſon, that ſhall be nominated and appointed by any three or more of the ſaid Commiſsioners to levy the ſaid Fines, and ſhall neglect or refuſe to do the ſame; the ſaid Fine for any one Offence not to exceed Ten pounds, or to impriſon them until they have paid the ſaid Fine, or yielded obedience to their Commands: And the ſaid Commiſsio<g ref="char:EOLhyphen"/>ners or any three or more of them, are to appoint for every Regiment a Marſhal, to ſee theſe and all other Penalties againſt theſe ſeveral Offen<g ref="char:EOLhyphen"/>ces, and their Offenders, as in this Act is ex<g ref="char:EOLhyphen"/>preſſed, put in execution, as they ſhall receive Direction from time to time from any three or more of the ſaid Commiſsioners; which Penal<g ref="char:EOLhyphen"/>ties ſo levyed, are to be accounted for the Ser<g ref="char:EOLhyphen"/>vice aforeſaid, for the uſes of the emergent occa<g ref="char:EOLhyphen"/>ſions thereof in the reſpective counties, <hi>&amp;c.</hi> the ſaid Commiſsioners allowing ſuch Salary to the parties for puniſhing ſuch Offenders, and making ſuch Levies, as any three or more of the ſaid Commiſsioners ſhall think fit from time to time to allow.</p>
+            <p>And it is Enacted and Declared by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That all Power of Lord Lieute<g ref="char:EOLhyphen"/>nants, and Deputy Lieutenants, and all former Power, Acts and Ordinances of Parliament, concerning the way of Raiſing the <hi>Militia</hi> by Trained, or Freehold-Bands, or Rates, or Taxes for them, ſhall from henceforth ceaſe, and be no longer of any force or effect.</p>
+            <p>And laſtly, the ſaid Commiſsioners, Moneth<g ref="char:EOLhyphen"/>ly or oftner, if there ſhall be occaſion, are to
+<pb n="940" facs="tcp:169057:8"/>give an accompt of their proceedings and actions to the Parliament or Councel of State.</p>
+            <p>Provided, That this Act, nor any thing con<g ref="char:EOLhyphen"/>tained therein, ſhall be in force for any longer term then the Firſt day of <hi>February,</hi> which ſhall be in the year of our Lord, One thouſand ſix hundred and fifty.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <opener>
+               <dateline>
+                  <date>Die Jovis, <hi>11<hi rend="sup">o</hi>
+                     </hi> Julii, <hi>1650.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
